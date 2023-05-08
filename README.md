@@ -6,3 +6,5 @@ Contain Following Problems-:
 3)print Reverse number ..
 4)Ckeck Whether given number is divisible by 5 or not
 5)Print * five time on screen..
+6)Print Given word 5 Times..
+7)
