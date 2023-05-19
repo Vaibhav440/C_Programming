@@ -224,7 +224,6 @@ Output : 1
 digits which are less than 6.
 Input : 2395 
 Output : 3
-Piyush Khairnar - 7588945488 आम्ही Technical संस्कार करतो !!! ©Marvellous Infosystems Page 4
 Marvellous Logic Building Assignment : 7 
 Input : 1018
 Output : 3
